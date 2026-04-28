@@ -23,7 +23,8 @@ what I work with
 » backend     → Node.js, Express  
 » data        → MongoDB, Redis  
 » infra       → AWS, Docker, CI/CD  
-» also worked with → React Native
+» focus       → performance · system design  
+
 
 --------------------------------------------------
 
