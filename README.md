@@ -1,70 +1,61 @@
-<pre>
-MOHD SAHIL SIDDIQUI <3
-======================
+# Mohd Sahil Siddiqui
 
-building things that scale. breaking things that don’t.
+**Frontend engineer** — building interfaces that hold up under real traffic, real devices, and real deadlines.
 
-frontend-focused, but I think in systems.
-performance, architecture, and real-world usage > everything else.
+I care about what ships: performance budgets, clear architecture, and products people actually open again tomorrow.
 
---------------------------------------------------
+---
 
-Experience
+### Experience
 
-» Software Developer @ Simplify3X (2025–Present)
-» Associate Frontend Developer @ Merkle (2022–2024)
+| Role | Company | Period |
+|------|---------|--------|
+| Software Developer | Simplify3X | 2025 – Present |
+| Associate Frontend Developer | Merkle | 2022 – 2024 |
 
---------------------------------------------------
+~3 years shipping frontend in production — from campaign-scale web to product UI that has to stay fast as it grows.
 
-what I work with
+---
 
-» frontend    → React, Next.js, TypeScript  
-» state       → Redux, Zustand  
-» backend     → Node.js, Express  
-» data        → MongoDB, Redis  
-» infra       → AWS, Docker, CI/CD  
-» focus       → performance · system design  
+### What I work with
 
+```
+Frontend   React · Next.js · TypeScript
+State      Redux · Zustand · TanStack Query
+Backend    Node.js · Express
+Data       MongoDB · Redis · PostgreSQL
+Infra      AWS · Docker · CI/CD
+Focus      Performance · system design · DX
+```
 
---------------------------------------------------
+---
 
-things I’ve built
+### Building
 
-● auth systems
-  ↳ jwt auth + secure uploads
-  ↳ designed for production, not demos
+**[Nocta](https://github.com/mohdsahil36/Nocta)** — *one meaningful action, every night*
 
-● dev productivity suite (currently building)
-  ↳ pomodoro + logs + reviews + tasks
-  ↳ built for daily use, not just showcase
+A calm nightly priority app for developers. Deterministic scoring, a single next step (not another endless list), recovery nights, and neglected-area tracking. Built with Next.js, Motion, and a product-first landing — for daily use after work, not a throwaway demo.
 
+---
 
---------------------------------------------------
+### Right now
 
-currently
+- Going deeper on **system design** and frontend architecture at scale  
+- Building tools I need myself (starting with Nocta)  
+- Obsessing over load time, interaction cost, and maintainable UI systems  
 
-» going deeper into system design
-» building tools I actually need
-» improving frontend performance at scale
+---
 
---------------------------------------------------
+### Elsewhere
 
-find me here
+- **Portfolio** → [sahilworks.in](https://www.sahilworks.in/)  
+- **LinkedIn** → [mohd-sahil-siddiqui](https://www.linkedin.com/in/mohd-sahil-siddiqui-021a11201)  
+- **Email** → [mohdsahilsiddiqui36@gmail.com](mailto:mohdsahilsiddiqui36@gmail.com)  
 
-» portfolio   → https://www.sahilworks.in/
-» linkedin    → www.linkedin.com/in/mohd-sahil-siddiqui-021a11201
-» github      → https://github.com/mohdsahil36
-» mail        → mohdsahilsiddiqui36@gmail.com
+---
 
---------------------------------------------------
+### Open to
 
-open to frontend / full-stack roles
+Frontend and full-stack roles on products that need to **scale**, **move fast**, and **get used**.
 
-interested in working on products that need to scale,
-move fast, and actually get used.
-
-if you're hiring, building, or scaling something meaningful —
-let's connect.
-
---------------------------------------------------
-</pre>
+If you’re hiring, building, or scaling something meaningful — let’s talk.
