@@ -6,7 +6,7 @@ I care about what ships: performance budgets, clear architecture, and products p
 
 ---
 
-### Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -17,28 +17,26 @@ I care about what ships: performance budgets, clear architecture, and products p
 
 ---
 
-### What I work with
+## What I work with
+Frontend React · Next.js · TypeScript
+State Redux · Zustand · TanStack Query
+Backend Node.js · Express
+Data MongoDB · Redis · PostgreSQL
+Infra AWS · Docker · CI/CD
+Focus Performance · system design · DX
 
-```
-Frontend   React · Next.js · TypeScript
-State      Redux · Zustand · TanStack Query
-Backend    Node.js · Express
-Data       MongoDB · Redis · PostgreSQL
-Infra      AWS · Docker · CI/CD
-Focus      Performance · system design · DX
-```
 
 ---
 
-### Building
+## Building
 
-**[Nocta](https://github.com/mohdsahil36/Nocta)** — *one meaningful action, every night*
+### [Nocta](https://github.com/mohdsahil36/Nocta) — *one meaningful action, every night*
 
 A calm nightly priority app for developers. Deterministic scoring, a single next step (not another endless list), recovery nights, and neglected-area tracking. Built with Next.js, Motion, and a product-first landing — for daily use after work, not a throwaway demo.
 
 ---
 
-### Right now
+## Right now
 
 - Going deeper on **system design** and frontend architecture at scale  
 - Building tools I need myself (starting with Nocta)  
@@ -46,7 +44,7 @@ A calm nightly priority app for developers. Deterministic scoring, a single next
 
 ---
 
-### Elsewhere
+## Elsewhere
 
 - **Portfolio** → [sahilworks.in](https://www.sahilworks.in/)  
 - **LinkedIn** → [mohd-sahil-siddiqui](https://www.linkedin.com/in/mohd-sahil-siddiqui-021a11201)  
@@ -54,8 +52,8 @@ A calm nightly priority app for developers. Deterministic scoring, a single next
 
 ---
 
-### Open to
+## Open to
 
 Frontend and full-stack roles on products that need to **scale**, **move fast**, and **get used**.
 
-If you’re hiring, building, or scaling something meaningful — let’s talk.
+If you're hiring, building, or scaling something meaningful — let's talk.
